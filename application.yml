@@ -1,6 +1,6 @@
 route:
   loadbalancer:
-    uri: lb://shortener-loadbalancer
+    uri: lb://srv-loadbalancer
 
 eureka:
   client:
